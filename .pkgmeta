@@ -1,0 +1,5 @@
+package-as: SoftTargeting
+
+ignore:
+  - README.md
+  - SoftTargeting.png

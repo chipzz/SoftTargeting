@@ -3,7 +3,9 @@
 Exposes World of Warcraft's soft targeting CVars in the game's own Options panel
 (Options → AddOns → Soft Targeting), instead of leaving most of them console-only.
 
-Supports retail (Standard) and World of Warcraft: Forever from a single TOC.
+Supports retail (Standard) and World of Warcraft: Forever from a single TOC. The TOC also
+lists the Classic clients (Mists of Pandaria Classic, Titan-Reforged, Anniversary and
+Classic Era), but the addon is untested there.
 
 ## Pages
 
