@@ -1,0 +1,8 @@
+## Interface: 120105, 16001
+## Title: Soft Targeting
+## Notes: Exposes the soft targeting CVars in the Options panel
+## Author: chipzz
+## Version: 0.1
+## Category: Combat
+
+SoftTargeting.lua
